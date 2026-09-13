@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#38bdf8"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="500" fill="url(#g)"/>
+  <circle cx="650" cy="110" r="65" fill="#fde68a" opacity="0.9"/>
+  <path d="M0 360 Q120 250 240 350 T480 330 T800 310 V500 H0Z" fill="#064e3b" opacity="0.75"/>
+  <path d="M0 405 Q130 330 260 400 T520 390 T800 370 V500 H0Z" fill="#0f766e" opacity="0.8"/>
+  <path d="M100 390 L170 280 L240 390 Z M270 390 L360 230 L450 390 Z M500 390 L590 270 L680 390 Z" fill="#f8fafc" opacity="0.75"/>
+  <rect x="315" y="360" width="170" height="90" rx="8" fill="#7c2d12" opacity="0.85"/>
+  <path d="M295 365 L400 300 L505 365 Z" fill="#fef3c7" opacity="0.95"/>
+  <text x="400" y="95" text-anchor="middle" font-family="Arial, sans-serif" font-size="48" font-weight="700" fill="white">Đà Nẵng</text>
+  <text x="400" y="465" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="white">Vietnam Travel</text>
+</svg>
